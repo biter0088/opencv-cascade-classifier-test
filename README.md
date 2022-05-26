@@ -1,5 +1,11 @@
 # opencv-cascade-classifier-test
 
+#Note
+
+you need change 22th line in ./src/pub_image/src/imwrite_1.cpp 
+"srcImage = cv::imread("/home/meng/ivrc/opencv_adaboost/camera_ws/src/pub_image/src/pos_030.png",1);"
+change the address to your image address
+
 # Build & Run
 
 # Compile:
