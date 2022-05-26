@@ -29,6 +29,7 @@ rosrun opencv_detect book_detect.py
 
 # the example 
 ./result_example.png  
+![Alt](./result_example.png)
 
 
 # further detail 
