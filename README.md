@@ -14,18 +14,18 @@ catkin_make
 
 # Run:
 
-one treminal:
-roscore
+one treminal:  
+roscore  
 
-anonther terminal:
+anonther terminal:  
 
-cd  xxx/opencv-cascade-classifier-test
-source devel/setup.bash
-rosrun pub_image pub_image_node
+cd  xxx/opencv-cascade-classifier-test  
+source devel/setup.bash  
+rosrun pub_image pub_image_node  
 
-third terminal:
-source devel/setup.bash
-rosrun opencv_detect book_detect.py
+third terminal:  
+source devel/setup.bash  
+rosrun opencv_detect book_detect.py  
 
 # the example 
-./result_example.png
+./result_example.png  
