@@ -29,3 +29,8 @@ rosrun opencv_detect book_detect.py
 
 # the example 
 ./result_example.png  
+
+
+# further detail 
+CSDN:  
+https://blog.csdn.net/BIT_HXZ/article/details/124992751  
