@@ -14,7 +14,7 @@ catkin_make
 
 # Run:
 
-one treminal:  
+one terminal:  
 roscore  
 
 anonther terminal:  
